@@ -33,7 +33,7 @@ def start_audio_sharing():
 #GUI
 
 window = tk.Tk()
-window.title("Siva Calls v0.0.1 Alpha")
+window.title("Zoom Clone v0.0.1 Alpha")
 window.geometry('300x200')
 
 label_target_ip = tk.Label(window, text="Target IP:")
